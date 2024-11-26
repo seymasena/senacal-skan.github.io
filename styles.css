@@ -1,0 +1,28 @@
+body{
+    
+    
+}
+.page{
+    height: 900px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    color: rgb(217, 208, 141);
+}
+.main{
+    background-color: rgb(210, 180, 144);
+    margin-left: 50px;
+    color: rgb(0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+}
+.içerik li{
+    float: left;
+    width: 100px;
+    background-color: beige;
+}
+.menu h1{
+    text-align: center;
+}
